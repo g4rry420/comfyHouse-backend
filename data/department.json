@@ -1,0 +1,75 @@
+[
+    {
+        "title": "Furniture",
+        "routeName": "furniture",
+        "images": {
+            "bigImageUrl": "https://secure.img1-fg.wfcdn.com/im/36125534/resize-h146-w146%5Ecompr-r85%5Etransparent/9847/98477101/default_name.png",
+            "smallImageUrl": "https://secure.img1-fg.wfcdn.com/im/75759767/timg-h40-w40%5Ecompr-r85%5Etransparent/9847/98477101/default_name.png",
+            "mainImage": "https://secure.img1-fg.wfcdn.com/im/85067821/resize-h500-w500%5Ecompr-r85%5Etransparent/1148/114856311/default_name.png"
+        }
+    },
+    {
+        "title": "Outdoor",
+        "routeName": "outdoor",
+        "images": {
+            "bigImageUrl": "https://secure.img1-fg.wfcdn.com/im/94725432/resize-h146-w146%5Ecompr-r85%5Etransparent/9847/98477118/default_name.png",
+            "smallImageUrl": "https://secure.img1-fg.wfcdn.com/im/60607631/timg-h40-w40%5Ecompr-r85%5Etransparent/9847/98477118/default_name.png"
+        }
+    },
+    {
+        "title": "Decor & Pillows",
+        "routeName": "decorAndPillows",
+        "images": {
+            "bigImageUrl": "https://secure.img1-fg.wfcdn.com/im/98123780/resize-h146-w146%5Ecompr-r85%5Etransparent/9847/98477095/default_name.png",
+            "smallImageUrl": "https://secure.img1-fg.wfcdn.com/im/57209283/timg-h40-w40%5Ecompr-r85%5Etransparent/9847/98477095/default_name.png"
+        }
+    },
+    {
+        "title": "Rugs",
+        "routeName": "rugs",
+        "images": {
+            "bigImageUrl": "https://secure.img1-fg.wfcdn.com/im/17270816/resize-h146-w146%5Ecompr-r85%5Etransparent/9847/98477121/default_name.png",
+            "smallImageUrl": "https://secure.img1-fg.wfcdn.com/im/56905049/timg-h40-w40%5Ecompr-r85%5Etransparent/9847/98477121/default_name.png"
+        }
+    },
+    {
+        "title": "Lightning",
+        "routeName": "lightning",
+        "images": {
+            "bigImageUrl": "https://secure.img1-fg.wfcdn.com/im/28778171/resize-h146-w146%5Ecompr-r85%5Etransparent/9847/98477115/default_name.png",
+            "smallImageUrl": "https://secure.img1-fg.wfcdn.com/im/26554892/timg-h40-w40%5Ecompr-r85%5Etransparent/9847/98477115/default_name.png"
+        }
+    },
+    {
+        "title": "Renovation",
+        "routeName": "renovation",
+        "images": {
+            "bigImageUrl": "https://secure.img1-fg.wfcdn.com/im/43330857/resize-h146-w146%5Ecompr-r85%5Etransparent/9847/98477108/default_name.png",
+            "smallImageUrl": "https://secure.img1-fg.wfcdn.com/im/96303376/timg-h40-w40%5Ecompr-r85%5Etransparent/9847/98477108/default_name.png"
+        }
+    },
+    {
+        "title": "Kitchen",
+        "routeName": "kitchen",
+        "images": {
+            "bigImageUrl": "https://secure.img1-fg.wfcdn.com/im/40958777/resize-h146-w146%5Ecompr-r85%5Etransparent/1148/114856328/default_name.png",
+            "smallImageUrl": "https://secure.img1-fg.wfcdn.com/im/56937810/timg-h40-w40%5Ecompr-r85%5Etransparent/1148/114856328/default_name.png"
+        }
+    },
+    {
+        "title": "Baby & Kids",
+        "routeName": "babyAndKids",
+        "images": {
+            "bigImageUrl": "https://secure.img1-fg.wfcdn.com/im/71418404/resize-h146-w146%5Ecompr-r85%5Etransparent/9847/98477084/default_name.png",
+            "smallImageUrl": "https://secure.img1-fg.wfcdn.com/im/11052637/timg-h40-w40%5Ecompr-r85%5Etransparent/9847/98477084/default_name.png"
+        }
+    },
+    {
+        "title": "Storage",
+        "routeName": "storage",
+        "images": {
+            "bigImageUrl": "https://secure.img1-fg.wfcdn.com/im/16781923/resize-h146-w146%5Ecompr-r85%5Etransparent/9847/98477124/default_name.png",
+            "smallImageUrl": "https://secure.img1-fg.wfcdn.com/im/22852310/timg-h40-w40%5Ecompr-r85%5Etransparent/9847/98477124/default_name.png"
+        }
+    }
+]
