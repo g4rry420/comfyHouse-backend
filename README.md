@@ -15,6 +15,7 @@ Comfy House is an ecommerce web app made for people to decorate their homes. If 
 ## General
 
 This is my first full-stack project that I made with and also it was my first project that I designed and made after learning about the `JavaScript` and `React`.
+This is backend of `Comfy House`. To visit the front-end, click on this [link](https://github.com/g4rry420/comfyhouse-frontend).
 
 ## Contributors
 
