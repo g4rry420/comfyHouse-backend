@@ -1,6 +1,6 @@
 # Comfy House
 
-Comfy House is an ecommerce web app made for people to decorate their homes. If someone is looking for _**furniture**_,  to have their dog walked while they're at work, or to have their hamster fed while they're on vacation, they can use Loving Sitter to find available sitters in their area who are willing to do the work. A user can sign up as a sitter or sittee, make a profile and see others' rate, location, and available times, chat with them, and schedule sitting services, all through the app.
+Comfy House is an ecommerce web app made for people to decorate their homes. If someone is looking for _**furniture**_, _**rugs**_, _**kicthen material**_, _**lightning**_, etcetera. We got you covered.
 
 ## Table of Contents
 
