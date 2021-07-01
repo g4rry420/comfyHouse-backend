@@ -37,4 +37,8 @@ This is backend of `Comfy House`. To visit the front-end, click on this [link](h
 
 ## Usage
 
+-   Change the name of .env.example to .env using this command - `mv .env.examplee .env.example`
+-   Add the `SECRET` for the JWT auth token
+-   Add the your `DATABASE_URI` for the mongoDB
+-   (Optional) Add your Google auth `CLIENT_ID`
 -   `npm run dev` - To start with Backend of the project.
